@@ -1,8 +1,8 @@
 {
+ "background_color": "#FFFFFF",
  "name": "Yacyretá 360º",
  "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "start_url": "index.html",
  "icons": [
   {
    "type": "image/png",
@@ -40,5 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "background_color": "#FFFFFF"
+ "start_url": "index.html"
 }
