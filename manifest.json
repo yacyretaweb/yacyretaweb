@@ -1,7 +1,7 @@
 {
- "background_color": "#FFFFFF",
- "name": "Yacyretá VR",
+ "name": "Yacyretá 360º",
  "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "start_url": "index.html",
  "icons": [
   {
@@ -40,5 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "background_color": "#FFFFFF"
 }

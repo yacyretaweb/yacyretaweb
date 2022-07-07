@@ -1,10 +1,4 @@
 @font-face {
-   font-family: "Blacksword";
-   src: url("fonts/Blacksword.woff") format("woff"), url("fonts/Blacksword.eot") format("embedded-opentype"), url("fonts/Blacksword.otf") format("opentype");
-   font-weight: normal;
-   font-style: normal;
-}
-@font-face {
    font-family: "Oswald";
    src: url("fonts/Oswald Bold.woff") format("woff"), url("fonts/Oswald Bold.eot") format("embedded-opentype"), url("fonts/Oswald Bold.ttf") format("truetype"), url("fonts/Oswald Bold.svg") format("svg");
    font-weight: bold;
@@ -182,5 +176,11 @@
    font-family: "Bebas Neue Bold";
    src: url("fonts/BebasNeueBold.woff") format("woff"), url("fonts/BebasNeueBold.eot") format("embedded-opentype"), url("fonts/BebasNeueBold.otf") format("opentype");
    font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Blacksword";
+   src: url("fonts/Blacksword.woff") format("woff"), url("fonts/Blacksword.eot") format("embedded-opentype"), url("fonts/Blacksword.otf") format("opentype");
+   font-weight: normal;
    font-style: normal;
 }
